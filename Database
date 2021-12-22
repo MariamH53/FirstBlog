@@ -1,0 +1,6 @@
+ki taaml relation bin categorie w article ON DELETE CASCADE yaani ki tfasakh l'catégorie 
+yetfaskho les articles lkol eli fiha
+kifh taamlha ha relation?
+tenzel al base de données mteek temchi designer tel9aha fl flèche alimin lfou9 w taaml 
+nouvelle relation t7ot clé principale el id_categorie mtaa table categorie w clé étrangère
+id_categorie mtaa table article
